@@ -39,3 +39,4 @@ const PI = 3.14;
             count1.textcontent = count;
         }
     });
+    
